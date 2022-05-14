@@ -5,14 +5,14 @@ CNNNews18
 Yahoo
 NDTV
 https://blog.feedspot.com/indian_news_websites/
-Times_of_india
+Timesofindia
 NDTV
-India_Today
-The_Indian_Express
-The_Hindu
+IndiaToday
+TheIndianExpress
+TheHindu
 Reuters Survey
-Times_of_india
-BBC_news
+Timesofindia
+BBCnews
 The_Indian_Express
 Hindusthan_times
 The_Hindu
